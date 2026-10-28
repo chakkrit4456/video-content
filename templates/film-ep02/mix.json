@@ -1,0 +1,184 @@
+{
+  "video": "out/raw.mp4",
+  "voice": "vo/vo_aligned.wav",
+  "out": "out/ep02-v1.mp4",
+  "clicks_volume": 0.8,
+  "sfx": [
+    {
+      "file": "vo/sfx2/whoosh.wav",
+      "at": "L4-0.35",
+      "volume": 0.55
+    },
+    {
+      "file": "vo/sfx2/whoosh.wav",
+      "at": "L12-0.35",
+      "volume": 0.55
+    },
+    {
+      "file": "vo/sfx2/whoosh.wav",
+      "at": "L19-0.35",
+      "volume": 0.55
+    },
+    {
+      "file": "vo/sfx2/whoosh.wav",
+      "at": "L22-0.35",
+      "volume": 0.55
+    },
+    {
+      "file": "vo/sfx2/whoosh.wav",
+      "at": "L28-0.35",
+      "volume": 0.55
+    },
+    {
+      "file": "vo/sfx2/whoosh.wav",
+      "at": "L34-0.35",
+      "volume": 0.55
+    },
+    {
+      "file": "vo/sfx2/whoosh.wav",
+      "at": "L38-0.35",
+      "volume": 0.55
+    },
+    {
+      "file": "vo/sfx2/whoosh.wav",
+      "at": "L42-0.35",
+      "volume": 0.55
+    },
+    {
+      "file": "vo/sfx2/whoosh.wav",
+      "at": "L46-0.35",
+      "volume": 0.55
+    },
+    {
+      "file": "vo/sfx2/whoosh.wav",
+      "at": "L49-0.35",
+      "volume": 0.55
+    },
+    {
+      "file": "vo/sfx2/radio.wav",
+      "at": "L1",
+      "volume": 0.45
+    },
+    {
+      "file": "vo/sfx2/boom.wav",
+      "at": "L1+0.2",
+      "volume": 0.6
+    },
+    {
+      "file": "vo/sfx2/drag.wav",
+      "at": "L2",
+      "volume": 0.4,
+      "lowpass": 1400
+    },
+    {
+      "file": "vo/sfx2/chain.wav",
+      "at": "L5+0.5",
+      "volume": 0.7
+    },
+    {
+      "file": "vo/sfx2/groan.wav",
+      "at": "L6",
+      "volume": 0.6
+    },
+    {
+      "file": "vo/sfx2/alarm.wav",
+      "at": "L8+0.6",
+      "volume": 0.45
+    },
+    {
+      "file": "vo/sfx2/drag.wav",
+      "at": "L9",
+      "volume": 0.45,
+      "lowpass": 1600
+    },
+    {
+      "file": "vo/sfx2/swish.wav",
+      "at": "L10",
+      "volume": 0.5
+    },
+    {
+      "file": "vo/sfx2/glitch.wav",
+      "at": "L10+0.6",
+      "volume": 0.35
+    },
+    {
+      "file": "vo/sfx2/whoosh_rev.wav",
+      "at": "L14",
+      "volume": 0.45
+    },
+    {
+      "file": "vo/sfx2/groan.wav",
+      "at": "L17",
+      "volume": 0.5,
+      "lowpass": 1200
+    },
+    {
+      "file": "vo/sfx2/horn.wav",
+      "at": "L24",
+      "volume": 0.55
+    },
+    {
+      "file": "vo/sfx2/boom.wav",
+      "at": "L25",
+      "volume": 0.55
+    },
+    {
+      "file": "vo/sfx2/groan.wav",
+      "at": "L26",
+      "volume": 0.6
+    },
+    {
+      "file": "vo/sfx2/ding.wav",
+      "at": "L31",
+      "volume": 0.45
+    },
+    {
+      "file": "vo/sfx2/crash.wav",
+      "at": "L33+0.5",
+      "volume": 0.7
+    },
+    {
+      "file": "vo/sfx2/rain.wav",
+      "at": "L34",
+      "volume": 0.32,
+      "loop_to": "L37e"
+    },
+    {
+      "file": "vo/sfx2/radio.wav",
+      "at": "L39",
+      "volume": 0.4
+    },
+    {
+      "file": "vo/sfx2/boom.wav",
+      "at": "L44",
+      "volume": 0.45
+    },
+    {
+      "file": "vo/sfx2/heartbeat.wav",
+      "at": "L50",
+      "volume": 0.6,
+      "loop_to": "L52e"
+    },
+    {
+      "file": "vo/sfx2/riser.wav",
+      "at": "L52-1.2",
+      "volume": 0.55
+    },
+    {
+      "file": "vo/sfx2/impact.wav",
+      "at": "L53",
+      "volume": 0.85
+    },
+    {
+      "file": "vo/sfx2/glitch.wav",
+      "at": "L54",
+      "volume": 0.4
+    },
+    {
+      "file": "vo/sfx2/boom.wav",
+      "at": "END",
+      "volume": 0.7
+    }
+  ],
+  "note": "EP2: no continuous bed (user request). One-shot SFX from tools/sfx_pack.py; rain only during the rain scene."
+}
