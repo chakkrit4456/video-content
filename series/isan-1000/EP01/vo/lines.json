@@ -1,0 +1,488 @@
+{
+ "take": "vo/takeA.mp3",
+ "voice": "th-TH-NiwatNeural",
+ "rate": "-5%",
+ "total": 147.89,
+ "lines": [
+  {
+   "n": 1,
+   "th": "ถ้าเจ้าลงรถทัวร์ ที่หมอชิตตอนตีสี่ พร้อมเงินพันเดียว อย่าขึ้นแท็กซี่ คันแรกที่เรียก",
+   "sub": "ถ้าเจ้าลงรถทัวร์ที่หมอชิตตอนตี 4 พร้อมเงินพันเดียว อย่าขึ้นแท็กซี่คันแรกที่เรียก",
+   "en": "If you step off the bus at Mo Chit at 4 a.m. with just 1,000 baht, don't take the first taxi that calls you.",
+   "t": 0.2,
+   "end": 5.17,
+   "cps": 11.1,
+   "rushed": false
+  },
+  {
+   "n": 2,
+   "th": "เพราะในกรุงเทพฯ สิ่งที่แพงกว่าค่ารถ คือการดูเป็น คนต่างจังหวัด",
+   "sub": "เพราะในกรุงเทพฯ สิ่งที่แพงกว่าค่ารถ คือการดูเป็นคนต่างจังหวัด",
+   "en": "Because in Bangkok, what costs more than the fare is looking like you're from the countryside.",
+   "t": 5.57,
+   "end": 8.88,
+   "cps": 13.9,
+   "rushed": false
+  },
+  {
+   "n": 3,
+   "th": "เงินพันของเจ้า แบงก์ร้อยสิบใบ ม้วนรวมกัน อยู่ในซิปหน้ากระเป๋า",
+   "sub": "เงินพันของเจ้า แบงก์ร้อย 10 ใบ ม้วนรวมกันอยู่ในซิปหน้ากระเป๋า",
+   "en": "Your 1,000 baht: ten 100-baht notes, rolled together in the front zip of your bag.",
+   "t": 9.28,
+   "end": 13.0,
+   "cps": 12.1,
+   "rushed": false
+  },
+  {
+   "n": 4,
+   "th": "ในซับในกระเป๋า มีซองสีน้ำตาล ที่แม่เย็บติดไว้",
+   "sub": "ในซับในกระเป๋า มีซองสีน้ำตาลที่แม่เย็บติดไว้",
+   "en": "In the bag's lining is a brown envelope Mom sewed in.",
+   "t": 13.4,
+   "end": 16.36,
+   "cps": 10.8,
+   "rushed": false
+  },
+  {
+   "n": 5,
+   "th": "ลายมือแม่เขียนว่า อย่าเปิด จนกว่าเงินหมด",
+   "sub": "ลายมือแม่เขียนว่า \"อย่าเปิดจนกว่าเงินหมด\"",
+   "en": "In Mom's handwriting: \"Don't open until the money runs out.\"",
+   "t": 16.76,
+   "end": 18.93,
+   "cps": 13.8,
+   "rushed": false
+  },
+  {
+   "n": 6,
+   "th": "ในตะกร้า ไอ้แดงโผล่หัวออกมา เชือกฟางสีฟ้า ยังผูกขาขวาอยู่",
+   "sub": "ในตะกร้า ไอ้แดงโผล่หัวออกมา เชือกฟางสีฟ้ายังผูกขาขวาอยู่",
+   "en": "In the basket, Dang pokes his head out. The blue string is still tied to his right leg.",
+   "t": 19.33,
+   "end": 22.78,
+   "cps": 12.5,
+   "rushed": false
+  },
+  {
+   "n": 7,
+   "th": "วันที่หนึ่ง ตีสี่สิบนาที ชานชาลาหมอชิต",
+   "sub": "วันที่ 1 ตี 4 สิบนาที ชานชาลาหมอชิต",
+   "en": "Day 1, 4:10 a.m. Mo Chit platform.",
+   "t": 23.18,
+   "end": 25.57,
+   "cps": 10.4,
+   "rushed": false
+  },
+  {
+   "n": 8,
+   "th": "คนขับแท็กซี่ สามคน เดินตรงมาหาเจ้า ก่อนใครเลย",
+   "sub": "คนขับแท็กซี่ 3 คน เดินตรงมาหาเจ้าก่อนใครเลย",
+   "en": "Three taxi drivers walk straight to you, before anyone else.",
+   "t": 25.97,
+   "end": 28.8,
+   "cps": 12.4,
+   "rushed": false
+  },
+  {
+   "n": 9,
+   "th": "เขาเห็นตะกร้า เห็นผ้าขาวม้า แล้วบอกราคาเหมา สามร้อย",
+   "sub": "เขาเห็นตะกร้า เห็นผ้าขาวม้า แล้วบอกราคาเหมา 300",
+   "en": "They see the basket, the pha khao ma, and quote a flat 300.",
+   "t": 29.2,
+   "end": 32.2,
+   "cps": 13.7,
+   "rushed": false
+  },
+  {
+   "n": 10,
+   "th": "กฎข้อแรก นั่งรถเมล์ อย่านั่งแท็กซี่",
+   "sub": "กฎข้อแรก: นั่งรถเมล์ อย่านั่งแท็กซี่",
+   "en": "Rule one: take the bus, not a taxi.",
+   "t": 32.6,
+   "end": 34.7,
+   "cps": 10.9,
+   "rushed": false
+  },
+  {
+   "n": 11,
+   "th": "รถเมล์ร้อนครีมแดง ค่าตั๋วแปดบาท ตลอดสาย",
+   "sub": "รถเมล์ร้อนครีมแดง ค่าตั๋ว 8 บาทตลอดสาย",
+   "en": "The red-and-cream non-AC bus: 8 baht, any distance.",
+   "t": 35.1,
+   "end": 37.72,
+   "cps": 11.8,
+   "rushed": false
+  },
+  {
+   "n": 12,
+   "th": "เจ้ารอรถ เที่ยวแรกตอนตีห้า กินข้าวเหนียว จากกระติบแม่",
+   "sub": "เจ้ารอรถเที่ยวแรกตอนตี 5 กินข้าวเหนียวจากกระติบแม่",
+   "en": "You wait for the first bus at 5 a.m., eating sticky rice from Mom's basket.",
+   "t": 38.12,
+   "end": 41.17,
+   "cps": 13.1,
+   "rushed": false
+  },
+  {
+   "n": 13,
+   "th": "วันที่สอง ซอยแคบ ย่านห้วยขวาง ป้ายเขียนว่า ห้องรายวัน",
+   "sub": "วันที่ 2 ซอยแคบย่านห้วยขวาง ป้ายเขียนว่า \"ห้องรายวัน\"",
+   "en": "Day 2. A narrow soi in Huai Khwang. A sign: \"Daily rooms.\"",
+   "t": 41.57,
+   "end": 44.63,
+   "cps": 12.7,
+   "rushed": false
+  },
+  {
+   "n": 14,
+   "th": "เจ๊หมวย ม้วนผมสีชมพู ดีดลูกคิด ที่ห้อยคอ",
+   "sub": "เจ๊หมวย ม้วนผมสีชมพู ดีดลูกคิดที่ห้อยคอ",
+   "en": "Jae Muay, pink curlers, flicks the abacus hanging from her neck.",
+   "t": 45.03,
+   "end": 47.76,
+   "cps": 9.9,
+   "rushed": false
+  },
+  {
+   "n": 15,
+   "th": "เตียงในห้องรวม พัดลมตัวเดียว คืนละ หนึ่งร้อยยี่สิบ",
+   "sub": "เตียงในห้องรวม พัดลมตัวเดียว คืนละ 120",
+   "en": "A bed in a shared room, one fan, 120 a night.",
+   "t": 48.16,
+   "end": 50.85,
+   "cps": 13.0,
+   "rushed": false
+  },
+  {
+   "n": 16,
+   "th": "ไอ้แดง มุดลงก้นตะกร้า บ่ยอมออกมา ตอนเจ๊เดินเข้าใกล้",
+   "sub": "ไอ้แดงมุดลงก้นตะกร้า บ่ยอมออกมาตอนเจ๊เดินเข้าใกล้",
+   "en": "Dang dives to the bottom of the basket and won't come out as she comes near.",
+   "t": 51.25,
+   "end": 54.22,
+   "cps": 13.1,
+   "rushed": false
+  },
+  {
+   "n": 17,
+   "th": "กฎข้อสอง จ่ายล่วงหน้า สามคืน แล้วขอลดราคา",
+   "sub": "กฎข้อสอง: จ่ายล่วงหน้า 3 คืน แล้วขอลดราคา",
+   "en": "Rule two: pay three nights up front, then ask for a discount.",
+   "t": 54.62,
+   "end": 57.45,
+   "cps": 11.3,
+   "rushed": false
+  },
+  {
+   "n": 18,
+   "th": "คนให้เช่า กลัวที่สุด คือเตียงว่าง เงินสดวันนี้ จึงต่อรองได้",
+   "sub": "คนให้เช่ากลัวที่สุดคือเตียงว่าง เงินสดวันนี้จึงต่อรองได้",
+   "en": "What landlords fear most is an empty bed. Cash today buys you a deal.",
+   "t": 57.85,
+   "end": 61.16,
+   "cps": 11.8,
+   "rushed": false
+  },
+  {
+   "n": 19,
+   "th": "เจ๊ทำปากยื่น แล้วรับสามร้อย สามคืน",
+   "sub": "เจ๊ทำปากยื่น แล้วรับ 300 สามคืน",
+   "en": "She purses her lips, then takes 300 for three nights.",
+   "t": 61.56,
+   "end": 64.04,
+   "cps": 10.1,
+   "rushed": false
+  },
+  {
+   "n": 20,
+   "th": "วันที่สาม ร้านสะดวกซื้อ ข้าวกล่องละ สี่สิบห้าบาท",
+   "sub": "วันที่ 3 ร้านสะดวกซื้อ ข้าวกล่องละ 45 บาท",
+   "en": "Day 3. The convenience store. Boxed meals, 45 baht each.",
+   "t": 64.44,
+   "end": 67.14,
+   "cps": 12.2,
+   "rushed": false
+  },
+  {
+   "n": 21,
+   "th": "กฎข้อสาม ซื้อข้าวสาร กับไข่ อย่าซื้อข้าวกล่อง",
+   "sub": "กฎข้อสาม: ซื้อข้าวสารกับไข่ อย่าซื้อข้าวกล่อง",
+   "en": "Rule three: buy rice and eggs, not boxed meals.",
+   "t": 67.54,
+   "end": 70.16,
+   "cps": 11.8,
+   "rushed": false
+  },
+  {
+   "n": 22,
+   "th": "ข้าวสารหนึ่งกิโล สามสิบบาท ไข่สิบฟอง สี่สิบห้า",
+   "sub": "ข้าวสาร 1 กิโล 30 บาท ไข่ 10 ฟอง 45",
+   "en": "1 kg of rice, 30 baht. Ten eggs, 45.",
+   "t": 70.56,
+   "end": 73.59,
+   "cps": 10.6,
+   "rushed": false
+  },
+  {
+   "n": 23,
+   "th": "หม้อของเจ๊ ที่ใต้บันได หุงได้ ห้าวัน",
+   "sub": "หม้อของเจ๊ที่ใต้บันได หุงได้ 5 วัน",
+   "en": "With Jae's pot under the stairs, that's five days of meals.",
+   "t": 73.99,
+   "end": 76.09,
+   "cps": 10.9,
+   "rushed": false
+  },
+  {
+   "n": 24,
+   "th": "ไอ้แดง จิกข้าวสุก ที่หล่นพื้น คักแท้",
+   "sub": "ไอ้แดงจิกข้าวสุกที่หล่นพื้น คักแท้",
+   "en": "Dang pecks the cooked rice off the floor. Delighted.",
+   "t": 76.49,
+   "end": 78.46,
+   "cps": 11.2,
+   "rushed": false
+  },
+  {
+   "n": 25,
+   "th": "วันที่สี่ เสาไฟหน้าตลาด มีใบปลิว รายได้วันละสองพัน",
+   "sub": "วันที่ 4 เสาไฟหน้าตลาด มีใบปลิว \"รายได้วันละ 2,000\"",
+   "en": "Day 4. A flyer on a lamp post: \"Earn 2,000 a day.\"",
+   "t": 78.86,
+   "end": 82.04,
+   "cps": 11.3,
+   "rushed": false
+  },
+  {
+   "n": 26,
+   "th": "กฎข้อสี่ หางานจากป้าย หน้าร้าน อย่าโทรเบอร์ บนเสาไฟ",
+   "sub": "กฎข้อสี่: หางานจากป้ายหน้าร้าน อย่าโทรเบอร์บนเสาไฟ",
+   "en": "Rule four: find work from signs at shop fronts, not numbers on lamp posts.",
+   "t": 82.44,
+   "end": 85.49,
+   "cps": 12.8,
+   "rushed": false
+  },
+  {
+   "n": 27,
+   "th": "ร้านที่ติดป้าย รับคน มีหน้าร้าน ให้เจ้าเดินเข้าไปถามได้",
+   "sub": "ร้านที่ติดป้ายรับคน มีหน้าร้านให้เจ้าเดินเข้าไปถามได้",
+   "en": "A shop with a hiring sign has a front door you can walk into.",
+   "t": 85.89,
+   "end": 89.19,
+   "cps": 11.5,
+   "rushed": false
+  },
+  {
+   "n": 28,
+   "th": "ใบปลิวบนเสา มีแค่เบอร์โทร บ่มีที่อยู่",
+   "sub": "ใบปลิวบนเสา มีแค่เบอร์โทร บ่มีที่อยู่",
+   "en": "The lamp-post flyer has only a phone number. No address.",
+   "t": 89.59,
+   "end": 91.93,
+   "cps": 10.7,
+   "rushed": false
+  },
+  {
+   "n": 29,
+   "th": "เจ้านั่งรถเมล์ ไปกลับ สิบหกบาท ถามไปเจ็ดร้าน",
+   "sub": "เจ้านั่งรถเมล์ไปกลับ 16 บาท ถามไป 7 ร้าน",
+   "en": "Bus there and back, 16 baht. You ask at seven shops.",
+   "t": 92.33,
+   "end": 95.0,
+   "cps": 12.4,
+   "rushed": false
+  },
+  {
+   "n": 30,
+   "th": "ร้านที่เจ็ด ประตูน้ำ บอกให้มาใหม่ วันพุธ",
+   "sub": "ร้านที่ 7 ประตูน้ำ บอกให้มาใหม่วันพุธ",
+   "en": "Shop seven, in Pratunam, says come back Wednesday.",
+   "t": 95.4,
+   "end": 97.68,
+   "cps": 11.9,
+   "rushed": false
+  },
+  {
+   "n": 31,
+   "th": "วันที่ห้า แบตมือถือเหลือ สามเปอร์เซ็นต์",
+   "sub": "วันที่ 5 แบตมือถือเหลือ 3%",
+   "en": "Day 5. Phone battery: 3%.",
+   "t": 98.08,
+   "end": 100.13,
+   "cps": 13.2,
+   "rushed": false
+  },
+  {
+   "n": 32,
+   "th": "กฎข้อห้า ชาร์จมือถือ ที่ร้านสะดวกซื้อ อย่าเสียบปลั๊ก ในห้องรวม",
+   "sub": "กฎข้อห้า: ชาร์จมือถือที่ร้านสะดวกซื้อ อย่าเสียบปลั๊กในห้องรวม",
+   "en": "Rule five: charge at the convenience store, not in the shared room.",
+   "t": 100.53,
+   "end": 103.86,
+   "cps": 12.9,
+   "rushed": false
+  },
+  {
+   "n": 33,
+   "th": "สายชาร์จ ที่เสียบทิ้งไว้ ตอนเจ้านอน คือของชิ้นแรก ที่หายในห้องรวม",
+   "sub": "สายชาร์จที่เสียบทิ้งไว้ตอนเจ้านอน คือของชิ้นแรกที่หายในห้องรวม",
+   "en": "A cable left plugged in while you sleep is the first thing to vanish in a shared room.",
+   "t": 104.26,
+   "end": 107.93,
+   "cps": 12.8,
+   "rushed": false
+  },
+  {
+   "n": 34,
+   "th": "เจ้าซื้อน้ำ สามบาท แล้วนั่งรอแบต ที่โต๊ะหน้าร้าน",
+   "sub": "เจ้าซื้อน้ำ 3 บาท แล้วนั่งรอแบตที่โต๊ะหน้าร้าน",
+   "en": "You buy 3-baht water and wait for the battery at the table out front.",
+   "t": 108.33,
+   "end": 111.33,
+   "cps": 11.0,
+   "rushed": false
+  },
+  {
+   "n": 35,
+   "th": "แม่โทรมา เสียงลำโพงแตก ถามว่า ซำบายดี บ่",
+   "sub": "แม่โทรมา เสียงลำโพงแตก ถามว่า \"ซำบายดีบ่\"",
+   "en": "Mom calls, the speaker crackling: \"Are you well?\"",
+   "t": 111.73,
+   "end": 114.38,
+   "cps": 11.7,
+   "rushed": false
+  },
+  {
+   "n": 36,
+   "th": "เจ้าตอบว่า แม่นแล้ว ยังเหลือ ห้าร้อยเก้าสิบแปด",
+   "sub": "เจ้าตอบว่าแม่นแล้ว ยังเหลือ 598",
+   "en": "You say yes. 598 left.",
+   "t": 114.78,
+   "end": 117.27,
+   "cps": 13.2,
+   "rushed": false
+  },
+  {
+   "n": 37,
+   "th": "วันที่หก เจ็ดโมงเช้า รถเมล์ไปประตูน้ำ คนยืนแน่น",
+   "sub": "วันที่ 6 เจ็ดโมงเช้า รถเมล์ไปประตูน้ำ คนยืนแน่น",
+   "en": "Day 6, 7 a.m. The bus to Pratunam, standing room only.",
+   "t": 117.67,
+   "end": 120.65,
+   "cps": 11.4,
+   "rushed": false
+  },
+  {
+   "n": 38,
+   "th": "ไอ้แดงตีปีก ในตะกร้า จ้องกระเป๋าด้านหลังเจ้า",
+   "sub": "ไอ้แดงตีปีกในตะกร้า จ้องกระเป๋าด้านหลังเจ้า",
+   "en": "Dang flaps in the basket, staring at the bag on your back.",
+   "t": 121.05,
+   "end": 123.58,
+   "cps": 13.0,
+   "rushed": false
+  },
+  {
+   "n": 39,
+   "th": "เจ้าทำถูกทุกอย่าง",
+   "sub": "เจ้าทำถูกทุกอย่าง",
+   "en": "You got everything right.",
+   "t": 123.98,
+   "end": 124.95,
+   "cps": 13.3,
+   "rushed": false
+  },
+  {
+   "n": 40,
+   "th": "ยกเว้นอย่างเดียว",
+   "sub": "ยกเว้นอย่างเดียว",
+   "en": "Except one thing.",
+   "t": 125.35,
+   "end": 126.27,
+   "cps": 14.2,
+   "rushed": true
+  },
+  {
+   "n": 41,
+   "th": "เงินทั้งหมดของเจ้า ยังอยู่ในซิปเดียว ตั้งแต่ วันที่หนึ่ง",
+   "sub": "เงินทั้งหมดของเจ้า ยังอยู่ในซิปเดียว ตั้งแต่วันที่ 1",
+   "en": "All your money was still in one zip, since Day 1.",
+   "t": 126.67,
+   "end": 129.44,
+   "cps": 13.0,
+   "rushed": false
+  },
+  {
+   "n": 42,
+   "th": "ตอนลงรถ ซิปหน้ากระเป๋า เปิดอ้าอยู่",
+   "sub": "ตอนลงรถ ซิปหน้ากระเป๋าเปิดอ้าอยู่",
+   "en": "When you get off, the front zip is hanging open.",
+   "t": 129.84,
+   "end": 131.78,
+   "cps": 12.9,
+   "rushed": false
+  },
+  {
+   "n": 43,
+   "th": "ห้าร้อยเก้าสิบแปดบาท หายไปหมด",
+   "sub": "598 บาท หายไปหมด",
+   "en": "598 baht, all gone.",
+   "t": 132.18,
+   "end": 134.01,
+   "cps": 13.1,
+   "rushed": false
+  },
+  {
+   "n": 44,
+   "th": "เหลือแค่ซองสีน้ำตาล ที่แม่เย็บติด ซับในไว้",
+   "sub": "เหลือแค่ซองสีน้ำตาลที่แม่เย็บติดซับในไว้",
+   "en": "Only Mom's brown envelope is left, sewn into the lining.",
+   "t": 134.41,
+   "end": 137.07,
+   "cps": 10.9,
+   "rushed": false
+  },
+  {
+   "n": 45,
+   "th": "เจ้ายังบ่เปิด เพราะแม่บอกว่า จนกว่าเงินหมด",
+   "sub": "เจ้ายังบ่เปิด เพราะแม่บอกว่า \"จนกว่าเงินหมด\"",
+   "en": "You still don't open it. Mom said: \"Until the money runs out.\"",
+   "t": 137.47,
+   "end": 140.01,
+   "cps": 12.6,
+   "rushed": false
+  },
+  {
+   "n": 46,
+   "th": "แล้วมือถือ ก็สั่นขึ้นมา",
+   "sub": "แล้วมือถือก็สั่นขึ้นมา",
+   "en": "Then your phone buzzes.",
+   "t": 140.41,
+   "end": 141.86,
+   "cps": 9.7,
+   "rushed": false
+  },
+  {
+   "n": 47,
+   "th": "เงินเข้า ยี่สิบบาท บ่มีชื่อ ผู้โอน",
+   "sub": "เงินเข้า 20 บาท ไม่มีชื่อผู้โอน",
+   "en": "20 baht received. No sender name.",
+   "t": 142.26,
+   "end": 144.18,
+   "cps": 10.4,
+   "rushed": false
+  },
+  {
+   "n": 48,
+   "th": "ถ้ามีคนโอนเงินให้เจ้า โดยไม่บอกชื่อ อย่าโอนคืน",
+   "sub": "ถ้ามีคนโอนเงินให้เจ้าโดยไม่บอกชื่อ อย่าโอนคืน",
+   "en": "If someone sends you money without saying who they are, don't send it back.",
+   "t": 144.58,
+   "end": 147.49,
+   "cps": 11.7,
+   "rushed": false
+  }
+ ]
+}
