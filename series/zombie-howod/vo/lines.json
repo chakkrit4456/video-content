@@ -1,0 +1,553 @@
+{
+ "take": "vo/takeA.wav",
+ "voice": "th-TH-NiwatNeural",
+ "rate": "-5%",
+ "total": 144.3,
+ "lines": [
+  {
+   "n": 1,
+   "th": "ถ้าซอมบี้ บุกหอโหวด ตอนบ่ายสาม อย่าวิ่งลงข้างล่าง",
+   "sub": "ถ้าซอมบี้บุกหอโหวดตอนบ่าย 3 อย่าวิ่งลงข้างล่าง",
+   "en": "If zombies storm Roi Et Tower at 3 p.m., don't run down.",
+   "t": 0.2,
+   "end": 3.31,
+   "cps": 11.6,
+   "rushed": false
+  },
+  {
+   "n": 2,
+   "th": "เพราะสิ่งที่น่ากลัวกว่า คนข้างล่าง คือคนที่ ขึ้นลิฟต์มากับคุณ",
+   "sub": "เพราะสิ่งที่น่ากลัวกว่าคนข้างล่าง คือคนที่ขึ้นลิฟต์มากับคุณ",
+   "en": "Because scarier than what's below is who rode up with you.",
+   "t": 3.71,
+   "end": 6.94,
+   "cps": 12.4,
+   "rushed": false
+  },
+  {
+   "n": 3,
+   "th": "บ่ายสองห้าสิบ หน้าหอโหวด ร้อยเอ็ด",
+   "sub": "14:50 หน้าหอโหวด ร้อยเอ็ด",
+   "en": "2:50 p.m. Roi Et Tower.",
+   "t": 7.34,
+   "end": 9.15,
+   "cps": 13.9,
+   "rushed": false
+  },
+  {
+   "n": 4,
+   "th": "รู้ไหม หอนี้สูง หนึ่งร้อยเอ็ดเมตร เท่าชื่อจังหวัด",
+   "sub": "หอนี้สูง 101 เมตร เท่าชื่อจังหวัด",
+   "en": "Did you know? It's 101 meters, like the province's name.",
+   "t": 9.55,
+   "end": 11.96,
+   "cps": 13.3,
+   "rushed": false,
+   "proof": true
+  },
+  {
+   "n": 5,
+   "th": "และทั้งตึก ออกแบบ เป็นรูปโหวด เครื่องเป่า ของอีสาน",
+   "sub": "และทั้งตึกออกแบบเป็นรูปโหวด เครื่องเป่าของอีสาน",
+   "en": "Shaped like a \"wot\", an Isan wind instrument.",
+   "t": 12.36,
+   "end": 15.07,
+   "cps": 13.6,
+   "rushed": false
+  },
+  {
+   "n": 6,
+   "th": "คุณพาทัวร์ สิบสองคน ขึ้นลิฟต์ ไปชั้นยี่สิบแปด",
+   "sub": "คุณพาทัวร์ 12 คนขึ้นลิฟต์ไปชั้น 28",
+   "en": "You take 12 tourists up to floor 28.",
+   "t": 15.47,
+   "end": 18.09,
+   "cps": 11.1,
+   "rushed": false
+  },
+  {
+   "n": 7,
+   "th": "ลุงชาญ ช่างลิฟต์ ขึ้นมาด้วย ข้อมือซ้าย ติดพลาสเตอร์ใหม่",
+   "sub": "ลุงชาญช่างลิฟต์ขึ้นมาด้วย ข้อมือซ้ายติดพลาสเตอร์ใหม่",
+   "en": "Uncle Chan, the lift tech, rides along. Fresh plaster on his left wrist.",
+   "t": 18.49,
+   "end": 21.2,
+   "cps": 14.0,
+   "rushed": false
+  },
+  {
+   "n": 8,
+   "th": "ข้าวจี่ หมาหน้าหอ ไม่ยอมเข้าลิฟต์ มันเห่า ใส่ลุงชาญ",
+   "sub": "ข้าวจี่หมาหน้าหอไม่ยอมเข้าลิฟต์ มันเห่าใส่ลุงชาญ",
+   "en": "Khao Jee, the tower dog, won't get in. He barks at Uncle Chan.",
+   "t": 21.6,
+   "end": 24.33,
+   "cps": 12.8,
+   "rushed": false
+  },
+  {
+   "n": 9,
+   "th": "คุณอุ้มมันขึ้นมา ประตูปิด",
+   "sub": "คุณอุ้มมันขึ้นมา ประตูปิด",
+   "en": "You carry him in. The doors close.",
+   "t": 24.73,
+   "end": 26.2,
+   "cps": 10.8,
+   "rushed": false
+  },
+  {
+   "n": 10,
+   "th": "บ่ายสามโมงตรง ชั้นสามสิบสี่",
+   "sub": "15:00 ชั้น 34",
+   "en": "3:00 p.m. Floor 34.",
+   "t": 26.6,
+   "end": 28.46,
+   "cps": 10.7,
+   "rushed": false
+  },
+  {
+   "n": 11,
+   "th": "รู้ไหม ชั้นนี้ คือสกายวอล์ก พื้นกระจก",
+   "sub": "ชั้นนี้คือสกายวอล์กพื้นกระจก",
+   "en": "Did you know? This floor is a glass skywalk.",
+   "t": 28.86,
+   "end": 30.98,
+   "cps": 11.3,
+   "rushed": false,
+   "proof": true
+  },
+  {
+   "n": 12,
+   "th": "ใต้เท้าคุณ คือบึงพลาญชัย ทั้งบึง",
+   "sub": "ใต้เท้าคุณ คือบึงพลาญชัยทั้งบึง",
+   "en": "Below your feet: all of Bueng Phlan Chai.",
+   "t": 31.38,
+   "end": 33.32,
+   "cps": 10.8,
+   "rushed": false
+  },
+  {
+   "n": 13,
+   "th": "และใต้เท้าคุณ คนกำลัง วิ่งกระจาย",
+   "sub": "และใต้เท้าคุณ คนกำลังวิ่งกระจาย",
+   "en": "And below your feet, people are scattering.",
+   "t": 33.72,
+   "end": 35.74,
+   "cps": 11.9,
+   "rushed": false
+  },
+  {
+   "n": 14,
+   "th": "บางคน ไม่ได้วิ่งหนี บางคน วิ่งไล่",
+   "sub": "บางคนไม่ได้วิ่งหนี บางคนวิ่งไล่",
+   "en": "Some aren't fleeing. Some are chasing.",
+   "t": 36.14,
+   "end": 37.99,
+   "cps": 11.9,
+   "rushed": false
+  },
+  {
+   "n": 15,
+   "th": "กฎข้อแรก ถ้าอยู่บนที่สูง อย่ารีบลง",
+   "sub": "กฎข้อแรก: ถ้าอยู่บนที่สูง อย่ารีบลง",
+   "en": "Rule one: if you're up high, don't rush down.",
+   "t": 38.39,
+   "end": 40.48,
+   "cps": 11.0,
+   "rushed": false
+  },
+  {
+   "n": 16,
+   "th": "สามสิบห้าชั้น ด้วยบันได คนหนีตายกว่าสิบคน จะอุดกันเอง",
+   "sub": "35 ชั้นด้วยบันได คนหนีตายกว่า 10 คน จะอุดกันเอง",
+   "en": "Thirty-five floors of stairs. A panicked crowd jams itself.",
+   "t": 40.88,
+   "end": 44.28,
+   "cps": 11.5,
+   "rushed": false
+  },
+  {
+   "n": 17,
+   "th": "บ่ายสามโมงห้านาที",
+   "sub": "15:05",
+   "en": "3:05 p.m.",
+   "t": 44.68,
+   "end": 45.98,
+   "cps": 10.8,
+   "rushed": false
+  },
+  {
+   "n": 18,
+   "th": "ไฟดับ ลิฟต์ค้าง อยู่ชั้นล่าง",
+   "sub": "ไฟดับ ลิฟต์ค้างอยู่ชั้นล่าง",
+   "en": "Power cuts. The lift is stuck at the bottom.",
+   "t": 46.38,
+   "end": 47.91,
+   "cps": 11.1,
+   "rushed": false
+  },
+  {
+   "n": 19,
+   "th": "กฎข้อสอง ลิฟต์ที่ดับ คือประตู ที่ล็อกให้คุณฟรี",
+   "sub": "กฎข้อสอง: ลิฟต์ที่ดับ คือประตูที่ล็อกให้คุณฟรี",
+   "en": "Rule two: a dead lift is a locked door, for free.",
+   "t": 48.31,
+   "end": 50.89,
+   "cps": 11.2,
+   "rushed": false
+  },
+  {
+   "n": 20,
+   "th": "ทุกคน ลากโต๊ะ จากร้านกาแฟ มาขวางประตูบันได",
+   "sub": "ทุกคนลากโต๊ะจากร้านกาแฟ มาขวางประตูบันได",
+   "en": "Everyone drags café tables to block the stair door.",
+   "t": 51.29,
+   "end": 54.0,
+   "cps": 12.6,
+   "rushed": false
+  },
+  {
+   "n": 21,
+   "th": "ลุงชาญ ขอถือวิทยุ กับกุญแจลิฟต์ ไว้เอง คุณให้ เพราะเขาเป็นช่าง",
+   "sub": "ลุงชาญขอถือวิทยุกับกุญแจลิฟต์ไว้เอง คุณให้ เพราะเขาเป็นช่าง",
+   "en": "Uncle Chan keeps the radio and lift key. You agree—he's the tech.",
+   "t": 54.4,
+   "end": 57.93,
+   "cps": 12.5,
+   "rushed": false
+  },
+  {
+   "n": 22,
+   "th": "ข้าวจี่ ขยับไปนอน อีกฝั่ง ห่างจากลุงชาญ",
+   "sub": "ข้าวจี่ขยับไปนอนอีกฝั่ง ห่างจากลุงชาญ",
+   "en": "Khao Jee moves to the far side, away from Uncle Chan.",
+   "t": 58.33,
+   "end": 60.77,
+   "cps": 11.1,
+   "rushed": false
+  },
+  {
+   "n": 23,
+   "th": "บ่ายสามครึ่ง",
+   "sub": "15:30",
+   "en": "3:30 p.m.",
+   "t": 61.17,
+   "end": 61.95,
+   "cps": 11.4,
+   "rushed": false
+  },
+  {
+   "n": 24,
+   "th": "คุณมองลงไป กลางบึง มีเกาะ",
+   "sub": "คุณมองลงไป กลางบึงมีเกาะ",
+   "en": "You look down. There's an island in the lake.",
+   "t": 62.35,
+   "end": 63.8,
+   "cps": 13.8,
+   "rushed": false
+  },
+  {
+   "n": 25,
+   "th": "รู้ไหม ปีสองพันสี่ร้อยหกสิบเก้า ชาวบ้าน สี่หมื่นคน ช่วยกันขุดลอก บึงนี้",
+   "sub": "ปี 2469 ชาวบ้าน 40,000 คน ช่วยกันขุดลอกบึงนี้",
+   "en": "Did you know? In 1926, 40,000 locals dredged this lake by hand.",
+   "t": 64.2,
+   "end": 68.84,
+   "cps": 9.9,
+   "rushed": false,
+   "proof": true
+  },
+  {
+   "n": 26,
+   "th": "บนเกาะ มีศาลหลักเมือง กับพระพุทธโธดม",
+   "sub": "บนเกาะมีศาลหลักเมือง กับพระพุทธโธดม",
+   "en": "On the island: the City Pillar Shrine and Phra Phuttha Thodom.",
+   "t": 69.24,
+   "end": 71.29,
+   "cps": 14.1,
+   "rushed": true
+  },
+  {
+   "n": 27,
+   "th": "และตอนนี้ มีคนหนีไปรวมกัน บนเกาะนั้น เกือบร้อยคน",
+   "sub": "และตอนนี้ มีคนหนีไปรวมกันบนเกาะนั้นเกือบร้อยคน",
+   "en": "Now nearly a hundred people have fled onto it.",
+   "t": 71.69,
+   "end": 74.61,
+   "cps": 12.3,
+   "rushed": false
+  },
+  {
+   "n": 28,
+   "th": "กฎข้อสาม ที่ปลอดภัย คือที่มีทางเข้า ทางเดียว",
+   "sub": "กฎข้อสาม: ที่ปลอดภัย คือที่มีทางเข้าทางเดียว",
+   "en": "Rule three: safe places have only one way in.",
+   "t": 75.01,
+   "end": 77.64,
+   "cps": 11.8,
+   "rushed": false
+  },
+  {
+   "n": 29,
+   "th": "สะพานเล็กๆ หนึ่งสะพาน เฝ้าง่ายกว่า ถนนทั้งเมือง",
+   "sub": "สะพานเล็กๆ 1 สะพาน เฝ้าง่ายกว่าถนนทั้งเมือง",
+   "en": "One small bridge is easier to guard than a whole city.",
+   "t": 78.04,
+   "end": 80.69,
+   "cps": 13.2,
+   "rushed": false
+  },
+  {
+   "n": 30,
+   "th": "รู้ไหม ชื่อร้อยเอ็ด ถูกเล่าว่ามาจาก เมืองสิบเอ็ดประตู",
+   "sub": "ชื่อร้อยเอ็ด ถูกเล่าว่ามาจาก \"เมืองสิบเอ็ดประตู\"",
+   "en": "Did you know? \"Roi Et\" is said to come from \"the city of eleven gates\".",
+   "t": 81.09,
+   "end": 83.93,
+   "cps": 13.0,
+   "rushed": false,
+   "proof": true
+  },
+  {
+   "n": 31,
+   "th": "วันนี้ คุณเหลือ ประตูเดียว ที่ต้องเฝ้า",
+   "sub": "วันนี้ คุณเหลือประตูเดียวที่ต้องเฝ้า",
+   "en": "Today you have just one gate to guard.",
+   "t": 84.33,
+   "end": 86.19,
+   "cps": 12.9,
+   "rushed": false
+  },
+  {
+   "n": 32,
+   "th": "สี่โมงเย็น",
+   "sub": "16:00",
+   "en": "4:00 p.m.",
+   "t": 86.59,
+   "end": 87.35,
+   "cps": 9.3,
+   "rushed": false
+  },
+  {
+   "n": 33,
+   "th": "แดดบ่าย เผากระจก ห้องร้อน ขึ้นเรื่อยๆ",
+   "sub": "แดดบ่ายเผากระจก ห้องร้อนขึ้นเรื่อยๆ",
+   "en": "Afternoon sun bakes the glass. It keeps getting hotter.",
+   "t": 87.75,
+   "end": 89.86,
+   "cps": 12.8,
+   "rushed": false
+  },
+  {
+   "n": 34,
+   "th": "กฎข้อสี่ น้ำหนึ่งขวด แบ่งสามคน ดื่มทีละอึก",
+   "sub": "กฎข้อสี่: น้ำ 1 ขวด แบ่ง 3 คน ดื่มทีละอึก",
+   "en": "Rule four: one bottle for three, one sip at a time.",
+   "t": 90.26,
+   "end": 92.71,
+   "cps": 11.4,
+   "rushed": false
+  },
+  {
+   "n": 35,
+   "th": "ตู้แช่ ร้านกาแฟ มีน้ำ สี่สิบขวด คุณนับ แล้วจดไว้",
+   "sub": "ตู้แช่ร้านกาแฟมีน้ำ 40 ขวด คุณนับแล้วจดไว้",
+   "en": "The café fridge has 40 bottles. You count and write it down.",
+   "t": 93.11,
+   "end": 96.22,
+   "cps": 9.7,
+   "rushed": false
+  },
+  {
+   "n": 36,
+   "th": "หกโมงเย็น ฟ้าเริ่มมืด มือถือ ไม่มีสัญญาณ",
+   "sub": "18:00 ฟ้าเริ่มมืด มือถือไม่มีสัญญาณ",
+   "en": "6 p.m. Getting dark. No signal.",
+   "t": 96.62,
+   "end": 99.22,
+   "cps": 10.4,
+   "rushed": false
+  },
+  {
+   "n": 37,
+   "th": "คุณหยิบโหวด ของที่ระลึก ที่ถือมาสาธิต",
+   "sub": "คุณหยิบโหวดของที่ระลึกที่ถือมาสาธิต",
+   "en": "You pick up the souvenir wot you brought for the tour.",
+   "t": 99.62,
+   "end": 101.78,
+   "cps": 12.0,
+   "rushed": false
+  },
+  {
+   "n": 38,
+   "th": "รู้ไหม ตำนานเล่าว่า นายพรานอีสาน ใช้โหวด ส่งสัญญาณ",
+   "sub": "ตำนานเล่าว่า นายพรานอีสานใช้โหวดส่งสัญญาณ",
+   "en": "Did you know? Legend says Isan hunters used the wot to signal.",
+   "t": 102.18,
+   "end": 105.49,
+   "cps": 11.5,
+   "rushed": false,
+   "proof": true
+  },
+  {
+   "n": 39,
+   "th": "ท่อสั้น เสียงสูง ท่อยาว เสียงต่ำ",
+   "sub": "ท่อสั้นเสียงสูง ท่อยาวเสียงต่ำ",
+   "en": "Short pipe, high note. Long pipe, low note.",
+   "t": 105.89,
+   "end": 107.74,
+   "cps": 11.4,
+   "rushed": false
+  },
+  {
+   "n": 40,
+   "th": "กฎข้อห้า เสียงสูง เดินทางได้ไกล และไม่ปลุก ทั้งชั้น",
+   "sub": "กฎข้อห้า: เสียงสูงเดินทางได้ไกล และไม่ปลุกทั้งชั้น",
+   "en": "Rule five: a high note carries far without waking the whole floor.",
+   "t": 108.14,
+   "end": 111.21,
+   "cps": 11.4,
+   "rushed": false
+  },
+  {
+   "n": 41,
+   "th": "คุณเป่า ท่อสั้นที่สุด สามครั้ง ทุกสิบนาที",
+   "sub": "คุณเป่าท่อสั้นที่สุด 3 ครั้ง ทุก 10 นาที",
+   "en": "You blow the shortest pipe, three times, every ten minutes.",
+   "t": 111.61,
+   "end": 114.05,
+   "cps": 10.2,
+   "rushed": false
+  },
+  {
+   "n": 42,
+   "th": "บนเกาะ มีไฟฉาย กะพริบตอบ สามครั้ง",
+   "sub": "บนเกาะ มีไฟฉายกะพริบตอบ 3 ครั้ง",
+   "en": "On the island, a torch flashes back three times.",
+   "t": 114.45,
+   "end": 116.51,
+   "cps": 12.7,
+   "rushed": false
+  },
+  {
+   "n": 43,
+   "th": "ทุกคน เริ่มยิ้ม",
+   "sub": "ทุกคนเริ่มยิ้ม",
+   "en": "Everyone starts to smile.",
+   "t": 116.91,
+   "end": 117.86,
+   "cps": 9.4,
+   "rushed": false
+  },
+  {
+   "n": 44,
+   "th": "สองทุ่ม",
+   "sub": "20:00",
+   "en": "8:00 p.m.",
+   "t": 118.26,
+   "end": 118.81,
+   "cps": 9.2,
+   "rushed": false
+  },
+  {
+   "n": 45,
+   "th": "ข้าวจี่ ลุกขึ้นยืน ขนหลังตั้ง มันไม่ได้จ้อง ประตูบันได",
+   "sub": "ข้าวจี่ลุกขึ้นยืน ขนหลังตั้ง มันไม่ได้จ้องประตูบันได",
+   "en": "Khao Jee stands, hackles up. He's not staring at the stair door.",
+   "t": 119.21,
+   "end": 122.15,
+   "cps": 11.6,
+   "rushed": false
+  },
+  {
+   "n": 46,
+   "th": "มันจ้อง ลุงชาญ",
+   "sub": "มันจ้องลุงชาญ",
+   "en": "He's staring at Uncle Chan.",
+   "t": 122.55,
+   "end": 123.44,
+   "cps": 11.2,
+   "rushed": false
+  },
+  {
+   "n": 47,
+   "th": "คุณทำถูก ทุกอย่าง",
+   "sub": "คุณทำถูกทุกอย่าง",
+   "en": "You did everything right.",
+   "t": 123.84,
+   "end": 125.06,
+   "cps": 9.9,
+   "rushed": false
+  },
+  {
+   "n": 48,
+   "th": "ยกเว้น อย่างเดียว",
+   "sub": "ยกเว้นอย่างเดียว",
+   "en": "Except one thing.",
+   "t": 125.46,
+   "end": 126.43,
+   "cps": 13.4,
+   "rushed": false
+  },
+  {
+   "n": 49,
+   "th": "พลาสเตอร์ บนข้อมือซ้าย อยู่ตรงนั้น ตั้งแต่ ก่อนขึ้นลิฟต์",
+   "sub": "พลาสเตอร์บนข้อมือซ้าย อยู่ตรงนั้นตั้งแต่ก่อนขึ้นลิฟต์",
+   "en": "The plaster on his left wrist was there before the lift.",
+   "t": 126.83,
+   "end": 129.71,
+   "cps": 12.5,
+   "rushed": false
+  },
+  {
+   "n": 50,
+   "th": "และกุญแจลิฟต์ อยู่ในมือเขา",
+   "sub": "และกุญแจลิฟต์อยู่ในมือเขา",
+   "en": "And the lift key is in his hand.",
+   "t": 130.11,
+   "end": 131.67,
+   "cps": 12.1,
+   "rushed": false
+  },
+  {
+   "n": 51,
+   "th": "ลุงชาญ ลุกขึ้น เดินไปหาลิฟต์ ช้าๆ",
+   "sub": "ลุงชาญลุกขึ้น เดินไปหาลิฟต์ช้าๆ",
+   "en": "Uncle Chan rises and shuffles toward the lift.",
+   "t": 132.07,
+   "end": 134.14,
+   "cps": 10.6,
+   "rushed": false
+  },
+  {
+   "n": 52,
+   "th": "คุณกระชากวิทยุ จากเอวเขา เสียงตอบกลับ มาจากข้างล่าง ใกล้มาก",
+   "sub": "คุณกระชากวิทยุจากเอวเขา เสียงตอบกลับมาจากข้างล่าง ใกล้มาก",
+   "en": "You yank the radio. A voice answers from below. Very close.",
+   "t": 134.54,
+   "end": 138.02,
+   "cps": 13.5,
+   "rushed": false
+  },
+  {
+   "n": 53,
+   "th": "ทีมกู้ภัย อยู่หน้าประตูบันได แล้ว เปิดให้เราด้วย",
+   "sub": "\"ทีมกู้ภัยอยู่หน้าประตูบันไดแล้ว เปิดให้เราด้วย\"",
+   "en": "\"Rescue team at the stair door. Let us in.\"",
+   "t": 138.42,
+   "end": 141.32,
+   "cps": 11.0,
+   "rushed": false
+  },
+  {
+   "n": 54,
+   "th": "แต่ข้าวจี่ ยังเห่า ใส่ประตูบานนั้น ไม่หยุด",
+   "sub": "แต่ข้าวจี่ยังเห่าใส่ประตูบานนั้นไม่หยุด",
+   "en": "But Khao Jee won't stop barking at that door.",
+   "t": 141.72,
+   "end": 143.9,
+   "cps": 12.4,
+   "rushed": false
+  }
+ ]
+}
