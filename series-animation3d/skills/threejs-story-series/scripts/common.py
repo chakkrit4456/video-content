@@ -28,12 +28,16 @@ def duration(path: str) -> float:
 
 
 def read_script(path: str = "script.md") -> List[Dict[str, str]]:
-    """rows like `| 1 | VO text | subtitle |` -> [{"th": ..., "en": ...}] in order"""
+    """rows like `| 1 | VO | Subtitle TH | Subtitle EN |` -> [{"th", "sub", "en"}] in order.
+    Legacy 3-column `| 1 | VO | subtitle |` -> {"th", "en"} (subtitle kept in "en", no "sub"; captions fall back to it)."""
     rows = []
     for line in Path(path).read_text(encoding="utf-8").splitlines():
         if re.match(r"^\|\s*\d+\s*\|", line):
             cells = [c.strip() for c in line.strip().strip("|").split("|")]
-            rows.append({"th": cells[1], "en": cells[2] if len(cells) > 2 else ""})
+            if len(cells) > 3:
+                rows.append({"th": cells[1], "sub": cells[2], "en": cells[3]})
+            else:
+                rows.append({"th": cells[1], "en": cells[2] if len(cells) > 2 else ""})
     if not rows:
         sys.exit(f"no `| n | text | subtitle |` rows in {path}")
     return rows
