@@ -28,7 +28,7 @@ def edge(text: str, voice: str, rate: str, out: Path) -> None:
         sys.exit("edge-tts missing: python -m pip install edge-tts")
 
     async def go() -> None:
-        await edge_tts.Communicate(text, voice, rate=rate).save(str(out))
+        await edge_tts.Communicate(text, voice, rate=rate, proxy=os.environ.get("HTTPS_PROXY")).save(str(out))
 
     asyncio.run(go())
 

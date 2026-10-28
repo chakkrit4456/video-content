@@ -19,7 +19,7 @@ async def go():
     for i, l in enumerate(lines, 1):
         out = tmp / f"{i:03d}.mp3"
         if not out.exists():
-            await edge_tts.Communicate(l["th"], VOICE, rate=RATES.get(str(i), BASE), pitch=PITCH.get(str(i), "+0Hz")).save(str(out))
+            await edge_tts.Communicate(l["th"], VOICE, rate=RATES.get(str(i), BASE), pitch=PITCH.get(str(i), "+0Hz"), proxy=os.environ.get("HTTPS_PROXY")).save(str(out))
 asyncio.run(go())
 
 def trimmed(i):
